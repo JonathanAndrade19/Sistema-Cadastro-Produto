@@ -1,0 +1,17 @@
+.rodape{
+    flex-direction: row;
+    background-color: silver;
+    margin: 2px;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.informacoes{
+    display: flex;
+    flex-direction: row;
+}
+
+p {
+    margin: 0px 10px;
+}
